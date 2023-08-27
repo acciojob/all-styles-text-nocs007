@@ -1,13 +1,12 @@
-.main{
-	width:200px;
-	background:purple;
-	box-sizing:border-box;
-	border-inline-style: inset;
-	border-inline-start-color: green;
-	padding:10px;
+.main {
+  width: 200px;
+  background-color: purple;
+  border-left: 5px solid green;
+  padding: 10px;
 }
-.heading{
-	font-size:20px;
-	color:white;
-	text-decoration:underline;
+
+#heading {
+  font-size: 20px;
+  color: white;
+  text-decoration: underline;
 }
