@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+.main{
+	width:200px;
+	background:purple;
+	
+	border-inline-style: inset;
+	border-inline-start-color: green;
+	padding:10px;
+}
+.heading{
+	font-size:20px;
+	color:white;
+	text-decoration:underline;
+}
