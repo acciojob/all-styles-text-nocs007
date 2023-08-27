@@ -1,7 +1,7 @@
 .main{
 	width:200px;
 	background:purple;
-	
+	box-sizing:border-box;
 	border-inline-style: inset;
 	border-inline-start-color: green;
 	padding:10px;
